@@ -1,5 +1,6 @@
 //
 // Created by lz on 1/22/17.
+// https://github.com/htfy96/c10k-server/blob/b3938364ae3e56320dcd8394a3c993a1b8d10839/src/c10k/queue.hpp
 //
 
 #ifndef C10K_SERVER_BLOCKING_QUEUE_HPP
